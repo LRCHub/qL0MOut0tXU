@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Gnarly",
+  "base_artist": "KATSEYE",
+  "createdAt": "2025-12-25T06:16:58.709427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gnarly (feat. Lil Pump)",
+      "artist": "Kodak Black feat. Lil Pump",
+      "has_synced": true,
+      "path": "select/01_Gnarly_(feat._Lil_Pump)_Kodak_Black_feat._Lil_Pump.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gnarly (feat. Lil Pump)",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/02_Gnarly_(feat._Lil_Pump)_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Watching Windows (DJ Die Gnarly Vocal Mix)",
+      "artist": "Roni Size feat. Reprazent",
+      "has_synced": false,
+      "path": "select/03_Watching_Windows_(DJ_Die_Gnarly_Vocal_Mix)_Roni_Size_feat._Reprazent.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Watching Windows (DJ Die Gnarly Vocal Mix)",
+      "artist": "Roni Size / Reprazent",
+      "has_synced": false,
+      "path": "select/04_Watching_Windows_(DJ_Die_Gnarly_Vocal_Mix)_Roni_Size___Reprazent.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gnarly Charlie",
+      "artist": "Ten Foot Pole",
+      "has_synced": false,
+      "path": "select/05_Gnarly_Charlie_Ten_Foot_Pole.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gnarly (Featuring Lil' Pump)",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/06_Gnarly_(Featuring_Lil'_Pump)_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gnarly Bastard",
+      "artist": "Xxxtentacionn",
+      "has_synced": true,
+      "path": "select/07_Gnarly_Bastard_Xxxtentacionn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "GNARLY BASTARD",
+      "artist": "XXXTENTACION",
+      "has_synced": true,
+      "path": "select/08_GNARLY_BASTARD_XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gnarly (feat. Lil Pump)",
+      "artist": "Kodak Black, Lil Pump",
+      "has_synced": true,
+      "path": "select/09_Gnarly_(feat._Lil_Pump)_Kodak_Black,_Lil_Pump.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gnarly",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/10_Gnarly_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gnarly Boyz",
+      "artist": "Lancey Foux feat. Lil Gnar",
+      "has_synced": true,
+      "path": "select/11_Gnarly_Boyz_Lancey_Foux_feat._Lil_Gnar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gnarly Boyz (feat. Lil Gnar)",
+      "artist": "Lancey Foux",
+      "has_synced": true,
+      "path": "select/12_Gnarly_Boyz_(feat._Lil_Gnar)_Lancey_Foux.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gnarly (feat. Lil Pump)",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/13_Gnarly_(feat._Lil_Pump)_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gnarly",
+      "artist": "Kodak Black feat. Lil Pump",
+      "has_synced": true,
+      "path": "select/14_Gnarly_Kodak_Black_feat._Lil_Pump.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cowabunga Gnarly [Prod. By Harry Fraud]",
+      "artist": "Heems",
+      "has_synced": false,
+      "path": "select/15_Cowabunga_Gnarly_[Prod._By_Harry_Fraud]_Heems.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "| GNARLY BASTARD |",
+      "artist": "XXXTENTACTION",
+      "has_synced": true,
+      "path": "select/16_GNARLY_BASTARD_XXXTENTACTION.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Gnarly Charlie",
+      "artist": "Ten Foot Pole",
+      "has_synced": false,
+      "path": "select/17_Gnarly_Charlie_Ten_Foot_Pole.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gnarly",
+      "artist": "KATSEYE",
+      "has_synced": false,
+      "path": "select/pl_01_Gnarly_KATSEYE.txt"
+    }
+  ]
+}
